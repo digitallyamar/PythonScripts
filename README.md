@@ -6,3 +6,6 @@ Python based simple utility scripts.
 
 # 2. Read text file line by line
     python3 read_text_file_by_line.py words.txt
+
+# 3. Extract items from list whose substring matches
+    python3 substring_check.py abs
