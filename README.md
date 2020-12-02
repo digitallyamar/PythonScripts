@@ -9,3 +9,6 @@ Python based simple utility scripts.
 
 # 3. Extract items from list whose substring matches
     python3 substring_check.py abs
+
+# 4. Read and manipulate CSV files using Pandas
+    python3 substring_check.py abs
