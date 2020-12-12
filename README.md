@@ -15,3 +15,12 @@ Python based simple utility scripts.
 
 # 5. Count the number of syllables in a word
     python3 sylalble_count.py <word>
+
+# 6. Check Whois record for a domain name
+	- Need to install whois module
+
+		pip install whois
+
+	- Eg Usage: 
+
+		python3 check_whois.py try.com
