@@ -24,3 +24,13 @@ Python based simple utility scripts.
 	- Eg Usage: 
 
 		python3 check_whois.py try.com
+
+
+# 7. Get Wiki Data
+	- Need to install wikipedia module
+
+		pip install wikipedia
+
+	- Eg Usage: 
+
+		python3 get_wiki_data.py Apple
